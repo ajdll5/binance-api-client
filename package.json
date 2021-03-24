@@ -1,0 +1,25 @@
+{
+  "name": "binance-api-client",
+  "version": "1.0.0",
+  "description": "Binance Exchange API nodejs implementation for automated trading",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdll5/binance-api-client.git"
+  },
+  "author": "ajdll5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajdll5/binance-api-client/issues"
+  },
+  "homepage": "https://github.com/ajdll5/binance-api-client#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35"
+  }
+}
